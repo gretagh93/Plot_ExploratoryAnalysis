@@ -23,7 +23,6 @@ geom_bar(aes(x=Year, y=Emi), stat="identity", fill="orange", col="black") +
 labs(x = 'Year', y = 'Emissions', 
      title = 'Emissions Motor Vehicle in Baltimore City')
 
-# Emissions from motor vehicles have been up since 1999
 
 
 
