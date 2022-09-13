@@ -24,5 +24,3 @@ ggplot(data = eu_cd_sum) +
   geom_bar(aes(x=Year, y=Emi), stat="identity", fill="lightblue", col="black") +
   labs(x = 'Year', y = 'Frequency', title = 'Emissions Col EU')
 
-# Emissions from coal combustion-related sources have been up since 1999
-
