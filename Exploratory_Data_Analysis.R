@@ -1,8 +1,7 @@
 
 # Emissions of PM2.5 in 1999, 2002, 2005 y 2008.
 
-# Loading Data from web
-
+# Load Data from web
 url <- "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip"
 download.file(url, "Data for Peer Assessment.zip")
 
